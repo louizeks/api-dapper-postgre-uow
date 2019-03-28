@@ -1,0 +1,14 @@
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.csprojAssemblyReference.cache
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.csproj.CoreCompileInputs.cache
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.RazorAssemblyInfo.cache
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.RazorAssemblyInfo.cs
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.AssemblyInfoInputs.cache
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.AssemblyInfo.cs
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\bin\Debug\netcoreapp2.1\ExemploDapperPostgreUow.deps.json
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\bin\Debug\netcoreapp2.1\ExemploDapperPostgreUow.runtimeconfig.json
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\bin\Debug\netcoreapp2.1\ExemploDapperPostgreUow.runtimeconfig.dev.json
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\bin\Debug\netcoreapp2.1\ExemploDapperPostgreUow.dll
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\bin\Debug\netcoreapp2.1\ExemploDapperPostgreUow.pdb
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.RazorTargetAssemblyInfo.cache
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.dll
+C:\Users\luizi\source\repos\ExemploDapperPostgreUow\ExemploDapperPostgreUow\obj\Debug\netcoreapp2.1\ExemploDapperPostgreUow.pdb
