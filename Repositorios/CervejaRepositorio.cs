@@ -40,7 +40,7 @@ namespace ExemploDapperPostgreUow.Repositorios
 
         public Cerveja ListarPorId(int idCerveja)
         {
-            return Conexao.Query<Cerveja>(@"select * from dfdipr2gp2n0ba.cervejas where id = @id",
+            return Conexao.Query<Cerveja>(@"select * from cervejas where id = @id",
                 new { id = idCerveja }).FirstOrDefault();
         }
 
